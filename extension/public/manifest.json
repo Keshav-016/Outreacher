@@ -19,7 +19,7 @@
     "open_in_tab": true
   },
   "action": {
-   "default_title": "Open Options",
+    "default_title": "Open Options",
     "default_popup": "popup.html"
   }
 }
